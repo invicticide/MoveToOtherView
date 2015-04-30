@@ -1,0 +1,5 @@
+[
+    {"command": "move_to_other_view", "keys": ["f8"]},
+    {"command": "move_caret_top", "keys": ["alt+up"]},
+    {"command": "move_caret_bottom", "keys": ["alt+down"]},
+]
