@@ -6,9 +6,12 @@ A simple plugin for Sublime Text 2 and 3 which lets you manage a dynamic two-col
 * If the layout is not currently split, it will auto-split into two panels.
 * Moving the last file away from a side collapses the layout back to a single panel.
 
-## Bonus Features!
-
-Because reasons.
+Bonus features:
 
 * Alt+Up moves the cursor to the top line in the current view (without scrolling)
 * Alt+Down moves to the bottom line in the view (without scrolling)
+
+## Installation
+
+* Sublime Text -> Preferences -> Browse Packages
+* Create a folder called 'MoveToOtherView' and put all the files in it
